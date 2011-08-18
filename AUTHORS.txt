@@ -3,7 +3,7 @@ The PRIMARY AUTHORS are (ordered by aproximated LOC number):
     * Javier de la Rosa <versae@gmail.com>
 
 APPRECIATED CONTRIBUTORS:
-HAMMAD
+
     * Matt Luongo, https://github.com/mhluongo
     * Yashh, https://github.com/yashh
     * timClicks, https://github.com/timClicks
